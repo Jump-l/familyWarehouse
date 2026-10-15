@@ -12,9 +12,9 @@
 
 ```js
 
-\#include"STM32F10x.h"
+#include"STM32F10x.h"
 
-\#include<stdio.h>{
+#include<stdio.h>{
 
 &#x20; printf('Hello,Welcome to Sweet honey Studio')
 
